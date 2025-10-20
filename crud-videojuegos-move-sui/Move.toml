@@ -1,0 +1,8 @@
+[package]
+name = "crud-videojuegos-move-sui"
+version = "0.0.1"
+edition = "2024"
+
+[addresses]
+crud_videojuegos_move_sui = "0x0"
+
